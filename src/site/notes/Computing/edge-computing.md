@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/computing/edge-computing/"}
+---
+
+_Edge computing_ is a distributed computing paradigm that brings computation and data storage closer to the sources of data
